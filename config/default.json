@@ -1,5 +1,5 @@
 {
     "Chezz": {
-        "db": "mongodb://localhost/test"
+        "db": "mongodb+srv://chess:chess123456@virtu-chess.2ulyn.mongodb.net/chess?retryWrites=true&w=majority"
     }
 }
